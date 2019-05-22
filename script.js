@@ -3,6 +3,5 @@ function hi() {
        
         if(element.initiatorType === "audio")
             console.log(element.name);
-        
-    });
-}
+    })
+};
